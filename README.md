@@ -1,19 +1,18 @@
-# semester_project2
+# hypa-poiesis-static
 
-> Semester Project 2 - Øyvind Dahl
+> Boilerplate with HTML and SCSS
 
 ## Build Setup
 
 ## Clone GitHub repository
 ```
-git clone https://github.com/Ibento/portfolio_project2
-cd portfolio_project2
+git clone https://github.com/digitalaksjon/hypa-poiesis-static
+cd hypa-poiesis-static
 ```
 ## Project setup
 ```
 npm install
 ```
-
 ### Compiles, minifies and hot-reloads for development
 ```
 gulp
